@@ -1,11 +1,11 @@
 ## Обучение в онлайн-школе Нетология
 
-### Основы Git
+### [Основы Git](https://github.com/fenixguard/netology_study/tree/master/Git)
 
-### Начальный Python
-
-
-### Продвинутый Python
+### [Начальный Python](https://github.com/fenixguard/netology_study/tree/master/Python_base)
 
 
-### Web-разработка Django
+### [Продвинутый Python](https://github.com/fenixguard/netology_study/tree/master/Python_advanced)
+
+
+### [Web-разработка Django](https://github.com/fenixguard/netology_study/tree/master/Django)
