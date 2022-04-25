@@ -4,7 +4,7 @@ from repo.repo_mongo import get_student, add_student, get_students, add_student_
 
 
 COURSES = [
-    'Продвинутый Python',
+    'Python_advanced',
     'Основы HTML и CSS',
     'Фриланс - с чего начать?'
 ]
